@@ -1,0 +1,43 @@
+*
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+display: flexg
+Justify-content: center;
+alton-items: center;
+min-height: 1evn background: white;
+font-fantly: Verdana, Geness, Tahoma, sans-serif;
+}
+
+.gif {
+height: 100%;
+width:100%;
+}
+  
+h2 {
+test-align: center;
+font-size: 1.Sem;
+color: #e94d58: margin: 15px 0
+}
+.btn-group {
+width: 100% height: 50px;
+display: flex;
+Justify-content: center;
+margin-top: 5p
+}
+button {
+position: absolute; width: 150px;
+height: inherit; color: white;
+font-star: 1.2em; border-radius: 30px;
+outline: nanes cursor: pointer; #e94d58;
+font-size: 1.2em;
+}
+button:nth-child(1) ( nargin-left: -200рк background: #4038)
+}
+button:nth-child(2) ( margin-right: 200px background: wittes
+color: #e94d58;
+}
